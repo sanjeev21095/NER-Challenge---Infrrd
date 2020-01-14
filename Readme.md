@@ -25,7 +25,7 @@ Bonus Points: If you can give confidence score of a prediction along with entity
 # My solution
 In any text document, there are particular terms that represent specific entities that are more informative and have a unique context. These entities are known as named entities , which more specifically refer to terms that represent real-world objects like people, places, organizations, and so on, which are often denoted by proper names. A naive approach could be to find these by looking at the noun phrases in text documents. Named entity recognition (NER) , also known as entity chunking/extraction , is a popular technique used in information extraction to identify and segment the named entities and classify or categorize them under various predefined classes.
 
-[Overview of implementation](https://github.com/sanjeev21095/NER-Challenge---Infrrd/blob/master/Infrrd%20Machine%20Learning%20Assignment.ipynb):
+[Overview of implementation](https://github.com/sanjeev21095/NER-Challenge---Infrrd/blob/master/Infrrd_Coding_Challenge.html):
 1. Data Exploration
 2. Simple classifiers - Perceptron, SGD Classifier, Multinomial Naive bayes
 3. Character based LSTM
