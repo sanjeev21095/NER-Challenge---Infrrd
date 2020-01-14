@@ -21,3 +21,11 @@ You should train your model(s) on train.txt and compute the most probable entity
 Please submit a well-documented jupyter notebook containing all your analysis, solution and experiments (if any) along with the submission file. Also note down all the approaches you can think of, its advantage and disadvantages/limitations.  
 
 Bonus Points: If you can give confidence score of a prediction along with entity predicted it would be great. 0 being - not confident, 1 being - very confident. 
+
+# My solution
+Overview:
+1. Data Exploration
+2. Simple classifiers - Perceptron, SGD Classifier, Multinomial Naive bayes
+3. Character based LSTM
+4. ELMO based residual LSTM
+5. Bonus question - Confidence score for predictions
