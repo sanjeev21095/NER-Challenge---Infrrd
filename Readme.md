@@ -10,8 +10,8 @@ The data is annotated for named entities:
 6.	Product
 
 Input:
-train.txt
-test.txt
+[train.txt](https://github.com/sanjeev21095/NER-Challenge---Infrrd/blob/master/train.txt)
+[test.txt](https://github.com/sanjeev21095/NER-Challenge---Infrrd/blob/master/test.txt)
 
 Output:
 submission.txt
